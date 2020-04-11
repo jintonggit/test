@@ -1,4 +1,4 @@
 git is a version control system
 git is free softwera under GPL
-my name is jintong
+my name is jintongtong
 this is my first add
